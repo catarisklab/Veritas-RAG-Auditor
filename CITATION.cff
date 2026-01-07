@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Developer"
+  given-names: "Lead"
+  affiliation: "Cata-Risk-Lab"
+title: "Veritas: AI Compliance & Hallucination Auditor"
+version: 1.0.0
+date-released: 2026-01-07
+url: "https://huggingface.co/spaces/Cata-Risk-Lab/Veritas-Auditor"
+repository-code: "https://github.com/YOUR_USERNAME/Veritas-RAG-Auditor"
+keywords:
+  - "RAG"
+  - "Compliance"
+  - "AI Audit"
+  - "Hallucination Detection"
+license: MIT
