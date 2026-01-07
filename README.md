@@ -1,5 +1,7 @@
 # Veritas: AI Compliance & Hallucination Auditor 🛡️
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18174089.svg)](https://doi.org/10.5281/zenodo.18174089)
+
 ### The Problem: Liability in AI
 In high-stakes sectors like Swiss Banking or Healthcare, an AI hallucination isn't just a bug—it's a lawsuit. Standard RAG (Retrieval Augmented Generation) systems often "guess" when they don't know the answer.
 
