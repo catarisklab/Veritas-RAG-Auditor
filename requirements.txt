@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+chromadb
+pysqlite3-binary
+pypdf
+gradio
+openai
+tiktoken
+numpy<2.0.0
