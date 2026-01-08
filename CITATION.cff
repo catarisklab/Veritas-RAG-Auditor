@@ -1,17 +1,18 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: "Veritas: AI Hallucination Auditor"
+message: "If you use this software for RAG evaluation, please cite it as below."
+type: software
 authors:
-- family-names: "Developer"
-  given-names: "Lead"
-  affiliation: "Cata-Risk-Lab"
-title: "Veritas: AI Compliance & Hallucination Auditor"
+  - family-names: "Cata"
+    given-names: "Anthony D."
+    affiliation: "Cata Risk Lab"
 version: 1.0.0
-date-released: 2026-01-07
-url: "https://huggingface.co/spaces/Cata-Risk-Lab/Veritas-Auditor"
-repository-code: "https://github.com/YOUR_USERNAME/Veritas-RAG-Auditor"
-keywords:
-  - "RAG"
-  - "Compliance"
-  - "AI Audit"
-  - "Hallucination Detection"
+date-released: 2026-01-08
 license: MIT
+repository-code: "https://huggingface.co/spaces/Cata-Risk-Lab/Veritas-Auditor"
+abstract: "A compliance-in-the-loop framework utilizing Ragas to mathematically score RAG (Retrieval Augmented Generation) outputs for factual faithfulness and hallucination risk."
+keywords:
+  - "RAG Evaluation"
+  - "Hallucination Detection"
+  - "Financial Compliance"
+  - "AI Audit"
