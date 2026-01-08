@@ -1,4 +1,4 @@
-# Veritas: AI Compliance & Hallucination Auditor 🛡️
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/Cata-Risk-Lab/Veritas-Auditor) Veritas: AI Compliance & Hallucination Auditor 🛡️
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18174089.svg)](https://doi.org/10.5281/zenodo.18174089)
 
