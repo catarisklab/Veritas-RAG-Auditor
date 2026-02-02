@@ -1,0 +1,15 @@
+name: Wake Up Hugging Face
+on:
+  schedule:
+    # Runs every 2 hours (Standard Free Tier sleeps after 48h, this keeps it hot)
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Allows you to click a button to test it manually
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wake up Veritas
+        run: |
+          # Replace the URL below with your DIRECT Hugging Face App URL
+          curl -I https://cata-risk-lab-veritas-hallucination-auditor.hf.space
